@@ -1,0 +1,30 @@
+{
+    "name": "Parallel Labs",
+    "description": "3d game i made",
+    "dependencies": {
+        "device": "*",
+        "TilemapPath": "github:UnsignedArduino/TilemapPath#27ff80b905e9a311d3e36aecbf38fd1fd23af8ca",
+        "pxt-raycasting": "github:neintoes/pxt-raycasting#6f3bd81686da0cc654fb0cff7c5c2bf8528480c3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
