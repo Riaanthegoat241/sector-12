@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://riaanthegoat241.github.io/parallel-labs/](https://riaanthegoat241.github.io/parallel-labs/)
+> Open this page at [https://riaanthegoat241.github.io/sector-12/](https://riaanthegoat241.github.io/sector-12/)
 
 ## Use as Extension
 
@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/riaanthegoat241/parallel-labs** and import
+* search for **https://github.com/riaanthegoat241/sector-12** and import
 
 ## Edit this project
 
@@ -18,7 +18,7 @@ To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/riaanthegoat241/parallel-labs** and click import
+* paste **https://github.com/riaanthegoat241/sector-12** and click import
 
 #### Metadata (used for search, rendering)
 
