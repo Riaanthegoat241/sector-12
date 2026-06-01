@@ -31,7 +31,7 @@ mySprite2 = sprites.create(assets.image`pc`, SpriteKind.Enemy)
 let levelpass = sprites.create(assets.image`LevelPass`, SpriteKind.LevelPass)
 tiles.placeOnTile(mySprite, tiles.getTileLocation(12, 14))
 info.setLife(3)
-tiles.placeOnRandomTile(levelpass, sprites.skillmap.islandTile4)
+tiles.placeOnRandomTile(levelpass, sprites.dungeon.floorDarkDiamond)
 mySprite2.setScale(1, ScaleAnchor.Bottom)
 tiles.placeOnTile(mySprite2, tiles.getTileLocation(6, 6))
 game.onUpdateInterval(500, function () {
