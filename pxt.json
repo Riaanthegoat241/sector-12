@@ -4,7 +4,9 @@
     "dependencies": {
         "device": "*",
         "TilemapPath": "github:UnsignedArduino/TilemapPath#27ff80b905e9a311d3e36aecbf38fd1fd23af8ca",
-        "pxt-raycasting": "github:neintoes/pxt-raycasting#6f3bd81686da0cc654fb0cff7c5c2bf8528480c3"
+        "pxt-raycasting": "github:neintoes/pxt-raycasting#6f3bd81686da0cc654fb0cff7c5c2bf8528480c3",
+        "mouse": "*",
+        "browser-events": "*"
     },
     "files": [
         "main.blocks",
